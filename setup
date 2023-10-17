@@ -1,0 +1,4 @@
+Tools you may need to install via command line:
+
+Unzip (sudo apt install unzip)
+Steghide (sudo apt install steghide)
